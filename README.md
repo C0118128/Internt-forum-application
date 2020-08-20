@@ -1,5 +1,5 @@
 # ネット掲示板アプリケーション 
-~ Internt-forum-application ~
+# ~ Internt-forum-application ~
 
 ## 概要
 複数のクライアントが掲示板に書き込みを行うアプリケーション。TCPで通信を行い、複数のクライアントが一つのサーバー上のでやり取りを行うことができる。
