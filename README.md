@@ -9,8 +9,8 @@
 * コメントの書き込み&サーバーへ送信(GUI/JFrame,TCP通信/javaAPI)
 * コメントの読み込み&サーバーから受信(GUI/JFrame,TCP通信/javaAPI)
 
-## デモ
-* [作者](#作者)
+## デモの目次
+* []
 
 ## インストール方法
 eclipseなどを利用して、top.htmlを実行してください。 </br>
@@ -22,3 +22,24 @@ eclipseなどを利用して、top.htmlを実行してください。 </br>
 
 ## ライセンス
 This sample code is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+
+## デモ
+### top画面
+
+目次へ戻る
+
+### レコード登録画面
+
+目次へ戻る
+
+### 全レコード確認画面
+
+目次へ戻る
+
+### レコード削除画面
+
+目次へ戻る
+
+### 検索画面
+
+目次へ戻る
