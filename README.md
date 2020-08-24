@@ -30,7 +30,7 @@ This sample code is under [MIT license](https://en.wikipedia.org/wiki/MIT_Licens
 
 ## デモ
 * ### トップ画面
-![トップ画面](Internt-forum-application/image/トップ画面.png) </br>
+![トップ画面](https://github.com/C0118128/Internt-forum-application/blob/doc/image/%E3%83%88%E3%83%83%E3%83%97%E7%94%BB%E9%9D%A2.png) </br>
 [目次へ戻る](#デモの目次)
 
 * ### レコード登録画面
