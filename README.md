@@ -12,7 +12,7 @@
 ## デモ
 
 ## インストール方法
-eclipseなどで実行することが出来ます。 </br>
+eclipseなどを利用して、top.htmlを実行してください。 </br>
 `$ git clone https://github.com/C0118128/Internt-forum-application.git`
 
 
