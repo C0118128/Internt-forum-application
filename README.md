@@ -26,12 +26,6 @@ eclipseなどを利用して、top.htmlを実行してください。 </br>
 ## ライセンス
 This sample code is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
-</br>
-
----
-
-</br>
-
 ## デモ
 ### トップ画面
 ![トップ画面](https://github.com/C0118128/Internt-forum-application/blob/doc/images/%E3%83%88%E3%83%83%E3%83%97%E7%94%BB%E9%9D%A2.png) </br>
