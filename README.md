@@ -12,8 +12,9 @@
 ## デモ
 
 ## インストール方法
-`$ git clone https://github.com/C0118128/Internt-forum-application.git` </br>
-eclipseなどで実行することが出来ます。
+eclipseなどで実行することが出来ます。 </br>
+`$ git clone https://github.com/C0118128/Internt-forum-application.git`
+
 
 ## 作者
 * Ryoto
