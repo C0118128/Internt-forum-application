@@ -24,22 +24,22 @@ eclipseなどを利用して、top.htmlを実行してください。 </br>
 This sample code is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
 ## デモ
-### top画面
+* ### top画面
 
 目次へ戻る
 
-### レコード登録画面
+* ### レコード登録画面
 
 目次へ戻る
 
-### 全レコード確認画面
+* ### 全レコード確認画面
 
 目次へ戻る
 
-### レコード削除画面
+* ### レコード削除画面
 
 目次へ戻る
 
-### 検索画面
+* ### 検索画面
 
 目次へ戻る
