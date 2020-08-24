@@ -19,12 +19,13 @@
 eclipseなどを利用して、top.htmlを実行してください。 </br>
 `$ git clone https://github.com/C0118128/Internt-forum-application.git`
 
-
 ## 作者
 * Ryoto
 
 ## ライセンス
 This sample code is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+
+</br>
 
 ## デモ
 ### トップ画面
